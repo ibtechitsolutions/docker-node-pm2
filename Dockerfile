@@ -1,6 +1,6 @@
 FROM node:10.15.0
 
-MAINTAINER Armagan Amcalar "armagan@amcalar.com"
+MAINTAINER Bruno Thiago Pereira "bruno@ibtech.inf.br"
 
 RUN npm install -g pm2
 
